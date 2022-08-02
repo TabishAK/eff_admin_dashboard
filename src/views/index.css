@@ -1,0 +1,24 @@
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 50% !important;
+    margin: 1.75rem auto;
+  }
+
+  .modal-dialog-order-list {
+    max-width: 90% !important;
+    margin: 1.75rem auto;
+  }
+}
+
+td,
+th {
+  white-space: normal !important
+  ;
+}
+
+.rdw-editor-wrapper {
+  border: 2px solid #dcdcdc73;
+}
+.rdw-editor-main {
+  padding: 0px 16px;
+}
